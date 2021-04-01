@@ -1,4 +1,4 @@
-# Layout (this application is not yet in its final).
+# Layout
 
 A **simple application made with Flutter** in order to show a basic presentation layout. This is me, and this was one of the first projects I did using this wonderful framework called Flutter.
 
